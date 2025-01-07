@@ -11,4 +11,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0d1ngthunder&show_icons=true&locale=en&layout=compact" alt="Nitish Kumar" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0d1ngthunder&show_icons=true&locale=en" alt="Nitish Kumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c0d1ngthunder&" alt="c0d1ngthunder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c0d1ngthunder" alt="c0d1ngthunder" /></p>
