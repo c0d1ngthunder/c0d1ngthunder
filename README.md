@@ -8,6 +8,6 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0d1ngthunder&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Nitish Kumar" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0d1ngthunder&show_icons=true&locale=en&theme=transparent" alt="Nitish Kumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0d1ngthunder&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Nitish Kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c0d1ngthunder&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="Nitish Kumar" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com?user=c0d1ngthunder&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></p>
